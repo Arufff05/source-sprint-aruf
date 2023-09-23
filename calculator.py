@@ -1,3 +1,4 @@
+print("Welcome")
 print("1: Add\n2: Subtract\n3: Multiply\n4: Divide")
 c = int(input("Enter choice: "))
 a = int(input("Enter a: "))
