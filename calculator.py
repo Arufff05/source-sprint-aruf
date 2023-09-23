@@ -13,3 +13,4 @@ elif c==3:
     print(a*b)
 else:
     print(float)(a/b)
+print("by Aruf")
